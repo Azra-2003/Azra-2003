@@ -29,6 +29,9 @@
   <a href="https://instagram.com/aziii_aziii_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aziii_aziii_" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/azra-ally-fullstack-dev" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 ### Languages and Tools:
@@ -102,12 +105,12 @@
 
   -**Project Name:** Pomodoro Timer( Tamtie-Time )
 -**Description:** A productivity tool implementing the Pomodoro Technique to help users manage their time more effectively. This project features a timer that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks.
--**Technologies:**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
-Repository: [GitHub](https://github.com/Azra-2003/Tamatie-Time.git)
+-**Technologies:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+**Repository:** [GitHub](https://github.com/Azra-2003/Tamatie-Time.git)
 
 -**Project Name:** sInema - Turkish Themed Movie Landing Page
 -**Description:** A beautifully designed landing page for a movie website with a Turkish theme. This project focuses on an attractive UI/UX, showcasing the latest Turkish movies/series.
--**Technologies:**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+-**Technologies:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
 Repository: [GitHub](https://github.com/Azra-2003/sInema.git)
 
 
