@@ -16,7 +16,7 @@
 
 - 💬 Ask me about :  **HTML,CSS,Vanilla Javascript,React.js,Vue.js,Svelte.js,Alpine.js,Figma,Agile Processes**
 
-- 📫 How to reach me :  **allyazra2003@gmail.com**
+- 📫 How to reach me :  **azra.dev03@gmail.com**
 
 - ⚡ Fun fact :  **I can speak 4 languages**
 
@@ -97,26 +97,17 @@
  
   **Project Name:** MRUER Website
   - **Description:** A website designed to provide information about MRUER's Security Firm.
-  -**Technologies:**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+  -**Technologies:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
 **Repository:** [GitHub](https://github.com/Azra-2003/MRUER.git)
 
   -**Project Name:** Pomodoro Timer( Tamtie-Time )
 -**Description:** A productivity tool implementing the Pomodoro Technique to help users manage their time more effectively. This project features a timer that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks.
--**Technologies:**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+-**Technologies:**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
 Repository: [GitHub](https://github.com/Azra-2003/Tamatie-Time.git)
 
 -**Project Name:** sInema - Turkish Themed Movie Landing Page
 -**Description:** A beautifully designed landing page for a movie website with a Turkish theme. This project focuses on an attractive UI/UX, showcasing the latest Turkish movies/series.
--**Technologies:**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+-**Technologies:**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
 Repository: [GitHub](https://github.com/Azra-2003/sInema.git)
 
 
