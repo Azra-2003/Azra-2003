@@ -1,4 +1,4 @@
-![MasterHead]("https://www.freepik.com/free-photo/programming-background-collage_34089181.htm#fromView=search&page=1&position=48&uuid=ee5da6fb-e093-4cefaeea-7009ce26668d")
+![MasterHead](https://github.com/Azra-2003/Azra-2003/assets/157401242/16684b9c-c538-45c1-8f1f-16a414794db1)
 
 # Nice to meet you👋, I'm Azra Ally
 
