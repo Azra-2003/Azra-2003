@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/programming-background-collage_23-2149901787.jpg?t=st=1713276176~exp=1713279776~hmac=ef4a1c2c05161620f253d85c6ce6e7e06cd35f20c2c8c54266ec1c7c95112c99&w=996)
+![MasterHead]("https://www.freepik.com/free-photo/programming-background-collage_34089181.htm#fromView=search&page=1&position=48&uuid=ee5da6fb-e093-4cefaeea-7009ce26668d")
 
 # Nice to meet you👋, I'm Azra Ally
 
@@ -10,11 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=azra-2003&label=Profile%20views&color=0e75b6&style=flat" alt="azra-2003" /> 
 </p>
 
-- 🔭 I’m currently working on a : **Security Company Website**
+- 🔭 I’m currently working on a : **Animated login page**
 
-- 🌱 I’m currently learning : **React , Python**
+- 🌱 I’m currently learning : **AWS, Python**
 
-- 💬 Ask me about :  **HTML,CSS,Vanilla Javascript**
+- 💬 Ask me about :  **HTML,CSS,Vanilla Javascript,React.js,Vue.js,Svelte.js,Alpine.js,Figma,Agile Processes**
 
 - 📫 How to reach me :  **allyazra2003@gmail.com**
 
@@ -94,6 +94,31 @@
   - **Description:** A responsive footer for a website using Tailwind CSS. This project uses HTML focusing on responsive design and the utility-first approach of Tailwind CSS.
   - **Technologies:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
   - **Repository:** [GitHub](https://github.com/Azra-2003/Module_9_AZRALL558_PTO2401_Group_B-ALLY_SDF09.git)
+ 
+  **Project Name:** MRUER Website
+  - **Description:** A website designed to provide information about MRUER's Security Firm.
+  -**Technologies:**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+**Repository:** [GitHub](https://github.com/Azra-2003/MRUER.git)
+
+  -**Project Name:** Pomodoro Timer( Tamtie-Time )
+-**Description:** A productivity tool implementing the Pomodoro Technique to help users manage their time more effectively. This project features a timer that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks.
+-**Technologies:**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+Repository: [GitHub](https://github.com/Azra-2003/Tamatie-Time.git)
+
+-**Project Name:** sInema - Turkish Themed Movie Landing Page
+-**Description:** A beautifully designed landing page for a movie website with a Turkish theme. This project focuses on an attractive UI/UX, showcasing the latest Turkish movies/series.
+-**Technologies:**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+Repository: [GitHub](https://github.com/Azra-2003/sInema.git)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azra-2003&layout=compact)
 
