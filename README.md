@@ -22,14 +22,11 @@
 
 ### Connect with me:
 
-<p align="left">
-  <a href="https://codepen.io/azra-ally" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="azra-ally" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/aziii_aziii_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aziii_aziii_" height="30" width="40" />
-  </a>
- <a href="https://www.linkedin.com/in/azra-ally-fullstack-dev" target="_blank">
+align="left">
+<a href="https://codepen.io/azra-ally" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="azra-ally" height="30" width="40" />
+</a>
+ href="https://www.linkedin.com/in/azra-ally-fullstack-dev" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
 </a>
 </p>
