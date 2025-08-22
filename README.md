@@ -1,8 +1,8 @@
 ![MasterHead](https://github.com/Azra-2003/Azra-2003/assets/157401242/16684b9c-c538-45c1-8f1f-16a414794db1)
 
-# Nice to meet you👋, I'm Azra Ally
+# Nice to meet you👋, I'm Azra 
 
- **As a full-stack developer from South Africa, I thrive on challenges, finding joy in overcoming hurdles and seeing my code come to life. What sets my work apart is my deep love for creativity and uniqueness—I believe in infusing every project with a touch of innovation and originality. From conceptualising inventive features to designing user experiences that captivate and delight, I'm passionate about pushing the boundaries of what's possible in software development. Beyond mere functionality, I strive to create digital experiences that leave a lasting impression, reflecting my commitment to craftsmanship and ingenuity. Looking ahead, my career goal is to continue harnessing my passion for creativity to make meaningful contributions to cutting-edge projects, where innovation knows no bounds.**
+ **As a full-stack developer, I thrive on challenges, finding joy in overcoming hurdles and seeing my code come to life. What sets my work apart is my deep love for creativity and uniqueness—I believe in infusing every project with a touch of innovation and originality. From conceptualising inventive features to designing user experiences that captivate and delight, I'm passionate about pushing the boundaries of what's possible in software development. Beyond mere functionality, I strive to create digital experiences that leave a lasting impression, reflecting my commitment to craftsmanship and ingenuity. Looking ahead, my career goal is to continue harnessing my passion for creativity to make meaningful contributions to cutting-edge projects, where innovation knows no bounds.**
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about :  **HTML,CSS,Vanilla Javascript,React.js,Vue.js,Svelte.js,Alpine.js,Figma,Agile Processes**
 
-- 📫 How to reach me :  **azra.dev03@gmail.com**
+- 📫 How to reach me :  **azra.dev1@gmail.com**
 
 - ⚡ Fun fact :  **I can speak 4 languages**
 
@@ -96,10 +96,6 @@
   - **Technologies:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
   - **Repository:** [GitHub](https://github.com/Azra-2003/Module_9_AZRALL558_PTO2401_Group_B-ALLY_SDF09.git)
  
--  **Project Name:** MRUER Website
-  - **Description:** A website designed to provide information about MRUER's Security Firm.
-  - **Technologies:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
-  - **Repository:** [GitHub](https://github.com/Azra-2003/MRUER.git)
 
 -  **Project Name:** Pomodoro Timer( Tamtie-Time )
 -  **Description:** A productivity tool implementing the Pomodoro Technique to help users manage their time more effectively.
